@@ -1,0 +1,6 @@
+{
+  "name": "FlowTransfer",
+  "description": "Fast, secure device-to-device migration platform to move your digital life seamlessly across Android, iOS, and PC/Mac.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

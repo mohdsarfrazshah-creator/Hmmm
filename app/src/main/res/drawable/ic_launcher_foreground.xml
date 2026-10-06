@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Precision Metallic Medallion Ring -->
+    <path
+        android:pathData="M54,26 C69.5,26 82,38.5 82,54 C82,69.5 69.5,82 54,82 C38.5,82 26,69.5 26,54 C26,38.5 38.5,26 54,26 Z"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="26"
+                android:startY="26"
+                android:endX="82"
+                android:endY="82"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#F8FAFC" />
+                <item android:offset="0.25" android:color="#94A3B8" />
+                <item android:offset="0.5" android:color="#E2E8F0" />
+                <item android:offset="0.75" android:color="#64748B" />
+                <item android:offset="1.0" android:color="#F1F5F9" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Inner Subtle Beveled Recess Circle -->
+    <path
+        android:pathData="M54,29 C67.8,29 79,40.2 79,54 C79,67.8 67.8,79 54,79 C40.2,79 29,40.2 29,54 C29,40.2 40.2,29 54,29 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#33475569"
+        android:fillColor="#00000000" />
+
+    <!-- Left Metallic Stream Wing (Brushed Chrome / Titanium) -->
+    <path
+        android:pathData="M34,54 C34,44 42,36 52,36 C59,36 65,40 68,46 L60,51 C58,47 55,44 51,44 C46,44 42,48 42,54 C42,60 46,64 51,64 L51,72 C41,72 34,64 34,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="34"
+                android:startY="36"
+                android:endX="68"
+                android:endY="72"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF" />
+                <item android:offset="0.2" android:color="#E2E8F0" />
+                <item android:offset="0.45" android:color="#94A3B8" />
+                <item android:offset="0.7" android:color="#CBD5E1" />
+                <item android:offset="1.0" android:color="#475569" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Right Metallic Stream Wing (Champagne Gold / Polished Bronze Titanium) -->
+    <path
+        android:pathData="M74,54 C74,64 66,72 56,72 C49,72 43,68 40,62 L48,57 C50,61 53,64 57,64 C62,64 66,60 66,54 C66,48 62,44 57,44 L57,36 C67,36 74,44 74,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="40"
+                android:startY="36"
+                android:endX="74"
+                android:endY="72"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FEF3C7" />
+                <item android:offset="0.25" android:color="#FBBF24" />
+                <item android:offset="0.5" android:color="#F59E0B" />
+                <item android:offset="0.75" android:color="#D97706" />
+                <item android:offset="1.0" android:color="#78350F" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top Flow Chevron Accent (Platinum Chrome) -->
+    <path
+        android:pathData="M59,33 L67,41 L59,44 L62,40 L53,40 L53,35 L62,35 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="53"
+                android:startY="33"
+                android:endX="67"
+                android:endY="44"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF" />
+                <item android:offset="0.5" android:color="#E2E8F0" />
+                <item android:offset="1.0" android:color="#64748B" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Bottom Flow Chevron Accent (Champagne Gold) -->
+    <path
+        android:pathData="M49,75 L41,67 L49,64 L46,68 L55,68 L55,73 L46,73 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="41"
+                android:startY="64"
+                android:endX="55"
+                android:endY="75"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FDE68A" />
+                <item android:offset="0.5" android:color="#F59E0B" />
+                <item android:offset="1.0" android:color="#B45309" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Center Precision Diamond Core (Brushed Platinum & Specular Sparkle) -->
+    <path
+        android:pathData="M54,49 L59,54 L54,59 L49,54 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#FFFFFF">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="49"
+                android:startY="49"
+                android:endX="59"
+                android:endY="59"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF" />
+                <item android:offset="0.5" android:color="#E2E8F0" />
+                <item android:offset="1.0" android:color="#94A3B8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Micro Specular Star Flare at Center Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52.5 L54.5,53.5 L55.5,54 L54.5,54.5 L54,55.5 L53.5,54.5 L52.5,54 L53.5,53.5 Z" />
+
+</vector>
